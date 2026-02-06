@@ -81,7 +81,7 @@ Make sure you have Python 3.x installed, then run:
 3. **Open Jupyter Notebook**
    ```bash
       jupyter notebook
-    Then open NYC311.ipynb to explore the analysis step by step.
+Then open NYC311.ipynb to explore the analysis step by step.
 
 ### 👩‍💻 Author  
 Nivedha Sivakumar    
